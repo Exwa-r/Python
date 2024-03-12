@@ -12,3 +12,4 @@ while i < len(inputString):
 #check to add the chars at the end
 
 print (newString)
+
