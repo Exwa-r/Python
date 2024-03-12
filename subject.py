@@ -37,3 +37,6 @@ elif(maths>60 and science>60 and social>60 ):
     
 else:
     print("Fail")                   
+
+
+    

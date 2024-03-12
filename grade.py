@@ -26,3 +26,5 @@ if ((mark1>=0 and mark1<=100) and (mark2>=0 and mark2<=100) and (mark3>=0 and ma
 
 else:
     print("Enter the Valid Mark")        
+
+    

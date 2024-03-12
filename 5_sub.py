@@ -51,3 +51,4 @@ while (i < noOfStudents):
     i += 1
 avg=total/5        
 print ("Avg is ", avg)
+

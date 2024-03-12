@@ -14,3 +14,4 @@ for word in inputSentence.split(): #gets the word in a sentence
 
 
 print(result)
+

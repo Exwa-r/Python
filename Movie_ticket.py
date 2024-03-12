@@ -33,3 +33,4 @@ for i in range (5):
 #printing total money and count
 print("Total :",total)
 print(f"You Have Got {i+1} ")
+

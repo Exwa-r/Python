@@ -24,3 +24,5 @@ elif(choice==2): #minimum works
         print(f"{num3} is Minimum")
 else:
     print("Enter the Correct choice 1 or 2")
+
+    

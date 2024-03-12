@@ -30,3 +30,4 @@ word="Python"
 # word=word[5:]+word[0:5]+pigLatinKey
 #print(word)
 print(word[2:5])
+

@@ -17,6 +17,7 @@ if ((cm>0 and cm<=250) and (kg>0 and kg<=250)):
     print(f"Your BMI : {bmi}")
    
     #Calculating and finding bmi range
+    
     if(bmi<18.5):
         print("Under weight")
     elif(18.5 <= bmi and bmi <=24.9 ):

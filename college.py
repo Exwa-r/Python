@@ -40,6 +40,7 @@ if((tamil>=0 and tamil<=100) and (english>=0 and english<=100) and (maths>=0 and
         print("You are eligible for admission in College 1 ")
     elif(avg>=clg2):
         print("You are eligible for admission in College 2 ")
+        
     elif(avg>=clg3):
         print("You are eligible for admission in College 3 ")
     else:

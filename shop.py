@@ -44,7 +44,10 @@ if(getvadai>=0 and getsoda>=0 and getsandwich>=0):
     else:
         print("Request U to buy some dish")
 else:
+
     print("Enter a Valid amount")        
+
+    
 
    
 

@@ -10,3 +10,5 @@ pyramid = '' #Empty String
 for i in range (len(myName)):
      
     print(myName[0:i+1])
+
+    

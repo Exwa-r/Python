@@ -23,3 +23,4 @@ for word in inputSentence.split(): #gets the word in a sentence
         i+=1
 
 print(result)
+

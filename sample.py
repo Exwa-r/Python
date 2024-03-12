@@ -28,3 +28,4 @@ for word in string:
 print(count)
 print(len(string))
 print(string)
+
