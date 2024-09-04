@@ -1,0 +1,148 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Str1",
+      "request": "launch",
+      "mainClass": "Str1",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "space_between",
+      "request": "launch",
+      "mainClass": "space_between",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "frequency_count",
+      "request": "launch",
+      "mainClass": "frequency_count",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "parentheses",
+      "request": "launch",
+      "mainClass": "parentheses",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "Substring",
+      "request": "launch",
+      "mainClass": "Substring",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "str",
+      "request": "launch",
+      "mainClass": "str",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "tr",
+      "request": "launch",
+      "mainClass": "tr",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "Abc",
+      "request": "launch",
+      "mainClass": "Abc",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "alpha",
+      "request": "launch",
+      "mainClass": "alpha",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "fibonacci",
+      "request": "launch",
+      "mainClass": "fibonacci",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "assanddess",
+      "request": "launch",
+      "mainClass": "assanddess",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "strongno",
+      "request": "launch",
+      "mainClass": "strongno",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "Duplicate",
+      "request": "launch",
+      "mainClass": "Duplicate",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "missing",
+      "request": "launch",
+      "mainClass": "missing",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "swap",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "Anagram",
+      "request": "launch",
+      "mainClass": "Anagram",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "Binary",
+      "request": "launch",
+      "mainClass": "Binary",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "octal",
+      "request": "launch",
+      "mainClass": "octal",
+      "projectName": "Python_a42fcebd"
+    },
+    {
+      "type": "java",
+      "name": "Hello",
+      "request": "launch",
+      "mainClass": "Hello",
+      "projectName": "Python_a42fcebd"
+    }
+  ]
+}
